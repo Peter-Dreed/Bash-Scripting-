@@ -57,36 +57,3 @@ This repository offers a set of scripts targeting common administrative tasks su
 ```
 
 *Replace `[number_of_logs]` with the desired number of log entries to process. If not specified, the default is 10.*
-
-## Getting Started
-
-### Prerequisites
-
-- **Operating System:** Linux-based systems (Ubuntu, CentOS, etc.).
-- **Permissions:** Some scripts may require administrative privileges. It's recommended to run them with `sudo` if necessary.
-- **Dependencies:** Ensure that essential utilities like `awk`, `systemctl`, and package managers (`apt` or `yum`) are installed and accessible.
-
-### Usage
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/Peter-Dreed/Bash-Scripting-.git
-   cd Bash-Scripting-
-   ```
-
-2. **Make Scripts Executable:**
-
-   ```bash
-   chmod +x *.sh
-   ```
-
-3. **Run Desired Script:**
-
-   For example, to run the Optimization script:
-
-   ```bash
-   sudo ./Optimization.sh
-   ```
-
-   *Note: Running with `sudo` may be necessary for tasks that require elevated privileges.*
