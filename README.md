@@ -90,29 +90,3 @@ Bash scripting is a powerful way to automate repetitive tasks and manage system 
    ```
 
    *Note: Running with `sudo` may be necessary for tasks that require elevated privileges.*
-
-## Contributing
-
-Contributions are welcome! If you have ideas for improvements or additional scripts, feel free to fork the repository and submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch:
-
-   ```bash
-   git checkout -b feature-new-script
-   ```
-
-3. Commit your changes:
-
-   ```bash
-   git commit -am 'Add new script for XYZ functionality'
-   ```
-
-4. Push to the branch:
-
-   ```bash
-   git push origin feature-new-script
-   ```
-
-5. Open a pull request detailing your changes.
-
