@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Bash scripting is a powerful way to automate repetitive tasks and manage system operations. This repository offers a set of scripts targeting common administrative tasks such as system monitoring, optimization, and log analysis.
+This repository offers a set of scripts targeting common administrative tasks such as system monitoring, optimization, and log analysis.
 
 
 ### 1. Automation-System.sh
